@@ -1,0 +1,4 @@
+pandas
+kagglehub
+sqlalchemy
+psycopg2
